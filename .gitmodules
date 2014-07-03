@@ -1,0 +1,6 @@
+[submodule "xCalendar"]
+	path = xCalendar
+	url = https://github.com/SuperDomX/xCalendar
+[submodule "xWormhole"]
+	path = xWormhole
+	url = https://github.com/SuperDomX/xWormhole
